@@ -1,0 +1,18 @@
+body{
+    margin-top:0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+p {
+    font-size: 23px;
+    color: #524f4a;
+}
+
+input[type=text] {
+    height: 35px;
+}
+
+input[type=password] {
+    height: 35px;
+}

@@ -1,0 +1,21 @@
+body {
+    background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+
+h1 {
+    text-align: center;
+    color: #524f4a;
+    font-style: inherit;
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    color: #646966;
+    font-size: 30px;
+    font-family: "times";
+    text-decoration: underline;
+}
